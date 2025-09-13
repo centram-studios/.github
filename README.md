@@ -1,2 +1,2 @@
-# .github
-Centram Studios
+# Centram Studios
+A Game Studio
